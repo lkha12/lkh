@@ -7,11 +7,11 @@
 
         
 
-        <div style="display: inline-block; padding: 18px 35px; font-size: 22px; color: white; background-color: #25D366; text-decoration: none; border-radius: 10px; transition: 0.3s ease-in-out; font-weight: bold; box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);">
+        <div style="display: inline-block; padding: 180px 35px; font-size: 220px; color: white; background-color: #25D366; text-decoration: none; border-radius: 10px; transition: 0.3s ease-in-out; font-weight: bold; box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);">
             ✅ اضغط هنا للتواصل فورًا ✅
         </div>
 
-        <p style="font-size: 18px; margin-top: 12px;">📞 اضغط في أي مكان لفتح الواتساب!</p>
+        <p style="font-size: 180px; margin-top: 120px;">📞 اضغط في أي مكان لفتح الواتساب!</p>
 
     </div>
 </a>
